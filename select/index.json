@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "高田健志とザナルカンドにて",
+  "base_artist": "シルガデタスタローン",
+  "createdAt": "2026-03-05T08:58:22.339675Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "高田健志とザナルカンドにて",
+      "artist": "シルガデタスタローン",
+      "has_synced": false,
+      "path": "select/pl_01_高田健志とザナルカンドにて_シルガデタスタローン.txt"
+    }
+  ]
+}
